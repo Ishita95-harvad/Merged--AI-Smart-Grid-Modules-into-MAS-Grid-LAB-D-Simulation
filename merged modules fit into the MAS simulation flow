@@ -1,0 +1,56 @@
+🔀 Merge Plan: AI Smart Grid → MAS Grid LAB D Simulation
+🧭 Source Repo
+AI-Smart-Grid-Multi-Agent-System-for-Renewable-Forecasting-and-Optimization
+
+🎯 Target Repo
+EXPERIMENTAL-SET-UP-MAS-Grid-LAB-D-SIMULATION
+
+✅ Step-by-Step GitHub Workflow
+1. Create a New Branch
+bash
+git checkout -b merge-ai-smartgrid-modules
+2. Upload Key Folders from Source Repo
+Use GitHub’s web interface to upload these folders into the target repo:
+
+Code
+/notebooks/forecasting/
+/src/agents/
+/models/pretrained/
+You can rename folders to avoid conflicts or nest them under /ai-smartgrid/.
+
+3. Update README.md
+Add a new section like:
+
+markdown
+## 🔗 Integrated Modules from AI Smart Grid Repo
+
+- Adaptive agent logic for renewable forecasting
+- Pretrained models for solar/wind prediction
+- Hybrid forecasting notebooks
+Include badges or links to original repo for traceability.
+
+4. Create Pull Request
+Title: 🔀 Merge AI Smart Grid Modules into MAS Grid LAB D Simulation
+
+Description:
+
+markdown
+This PR integrates forecasting and optimization modules from the AI Smart Grid repo into the MAS Grid LAB D Simulation framework.
+
+### Changes:
+- Added forecasting notebooks
+- Integrated agent-based optimization modules
+- Included pretrained models
+- Updated README with merged module details
+
+### Checklist:
+- [x] Folder structure preserved
+- [x] README updated
+- [x] No file conflicts
+- [x] CI/CD workflows pass
+5. Review & Merge
+Confirm CI passes
+
+Review file diffs
+
+Merge PR
