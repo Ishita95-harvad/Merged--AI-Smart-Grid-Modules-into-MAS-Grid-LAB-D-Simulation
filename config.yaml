@@ -1,0 +1,18 @@
+simulation:
+  steps: 1000
+  learning_rate: 0.0003
+  batch_size: 64
+  
+regions:
+  - Tamil_Nadu
+  - Odisha 
+  - Rajasthan
+  - Bihar
+
+optimization:
+  algorithm: ga
+  population_size: 50
+
+deployment:
+  pilot_regions: [Tamil_Nadu]
+  rollout_phases: 3
