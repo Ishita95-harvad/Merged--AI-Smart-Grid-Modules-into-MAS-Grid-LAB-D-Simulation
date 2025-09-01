@@ -1,4 +1,4 @@
-#  [AI-Smart-Grid-Multi-Agent-System Merge Workflow](https://attend.ieee.org/appeec-2025/call-for-papers/)
+#  [AI-Smart-Grid-Multi-Agent-System-Merge-Workflow](https://attend.ieee.org/appeec-2025/call-for-papers/)
 
 ![APPEEC IEEE IMAGE](https://github.com/Ishita95-harvad/Merged--AI-Smart-Grid-Modules-into-MAS-Grid-LAB-D-Simulation/blob/main/IEEE%20APPEEC%20MTECH%20PAPERPUBLICATION%2C2025%20DEC.png)
 
