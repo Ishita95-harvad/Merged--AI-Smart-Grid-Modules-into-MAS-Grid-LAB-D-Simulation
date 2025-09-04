@@ -7,8 +7,8 @@
 - 🧠 Agent logic and utilities (`/src/secondary/`)
 - 📦 Pretrained models (`/models/secondary/`)
 
- ## 1. [Renewable-Forecasting-and-Optimization](https://github.com/Ishita95-harvad/AI-Smart-Grid-Multi-Agent-System-for-Renewable-Forecasting-and-Optimization)
-## 2. [Experimental set up grid -D simulation Lab](https://github.com/Ishita95-harvad/EXPERIMENTAL-SET-UP-MAS-Grid-LAB-D-SIMULATION)
+ ## 1. [Renewable-Forecasting-and-Optimization](https://github.com/Ishita95-harvad/AI-Smart-Grid-Multi-Agent-System-for-Renewable-Forecasting-and-Optimization) PHASE-I
+## 2. [Experimental set up grid -D simulation Lab](https://github.com/Ishita95-harvad/EXPERIMENTAL-SET-UP-MAS-Grid-LAB-D-SIMULATION) PHASE-II
 
 ![IIT- D IMAGE AIML](https://github.com/Ishita95-harvad/Merged--AI-Smart-Grid-Modules-into-MAS-Grid-LAB-D-Simulation/blob/main/1728236813688.jpeg)
 
