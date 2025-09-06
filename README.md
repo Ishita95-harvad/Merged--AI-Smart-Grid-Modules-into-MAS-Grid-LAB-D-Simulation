@@ -1,3 +1,5 @@
+![hALL](https://college.harvard.edu/sites/default/files/styles/max_1300x1300/public/2022-11/linderpix-Harvard-0948_1.jpg?itok=dp_r9hIi)
+
 #  [AI-Smart-Grid-Multi-Agent-System-Merge-Workflow](https://attend.ieee.org/appeec-2025/call-for-papers/)
 
 ![APPEEC IEEE IMAGE](https://github.com/Ishita95-harvad/Merged--AI-Smart-Grid-Modules-into-MAS-Grid-LAB-D-Simulation/blob/main/IEEE%20APPEEC%20MTECH%20PAPERPUBLICATION%2C2025%20DEC.png)
