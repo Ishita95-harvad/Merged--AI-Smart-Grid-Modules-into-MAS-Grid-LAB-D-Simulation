@@ -2,7 +2,7 @@
 ![hALL](https://college.harvard.edu/sites/default/files/styles/max_1300x1300/public/2022-11/linderpix-Harvard-0948_1.jpg?itok=dp_r9hIi)
 
 
-## 3. Results and Performance: PUBLICATION OF PAPER AND PRESENTATION AT THE CONFERENCE DECEMBER 2025 IEEE APPEEC 
+## 3. Results and Performance: PUBLICATION OF PAPER AND PRESENTATION AT THE CONFERENCE DECEMBER 2025 IEEE APPEEC -IN PERSON
 ![APPEEC IEEE IMAGE](https://github.com/Ishita95-harvad/Merged--AI-Smart-Grid-Modules-into-MAS-Grid-LAB-D-Simulation/blob/main/IEEE%20APPEEC%20MTECH%20PAPERPUBLICATION%2C2025%20DEC.png)
 
 🔗Integrated Modules from AI-Smart Grid Repo (Github Page AI portfolio) 
